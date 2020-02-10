@@ -17,6 +17,7 @@ namespace Exercicio_GitHub_1
             n1 = int.Parse(Console.ReadLine());
             Console.Write("Segundo numero: ");
             n2 = int.Parse(Console.ReadLine());
+             Console.Write("outro numero: ");
 
             int soma = n1 + n2;
 
